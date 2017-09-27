@@ -2,7 +2,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 #include <stdio.h>
-
+//zhopppppa
 int main()
 {
     pid_t pid, ppid, chpid;
